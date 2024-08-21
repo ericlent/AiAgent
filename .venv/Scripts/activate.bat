@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=d:\TFS\AiAgent\.venv
+set VIRTUAL_ENV=f:\ProjetosAI\AiAgent\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
